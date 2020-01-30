@@ -1,0 +1,7 @@
+#!/bin/bash
+pip install nltk
+pip install BeautifulSoup4
+pip install scipy
+pip install statistics 
+
+python parseCorp.py
